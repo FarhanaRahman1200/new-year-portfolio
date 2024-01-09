@@ -1,0 +1,33 @@
+.banner{
+    padding: 50px; 140px;  
+    display flex;
+    align-item:center;
+
+}
+.banner.banner image{
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+}
+.banner image
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+      
+}
+.style{
+    color: tomato;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.style{
+    width:397px;
+    height: 29;
+}
